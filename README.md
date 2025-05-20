@@ -45,7 +45,7 @@ bash
 pip install numpy pandas matplotlib yfinance scikit-learn tensorflow
 
 ### Clone the repository
-git clone https://github.com/yourusername/stock-price-prediction-lstm.git
+git clone https://github.com/yourusername/Stock-Price-Prediction.git
 cd stock-price-prediction-lstm
 
 ### Run the Jupyter notebook or Python script:
