@@ -41,7 +41,7 @@ The data is fetched using the `yfinance` Python library.
 
 Make sure you have the following packages installed:
 
-bash
+
 pip install numpy pandas matplotlib yfinance scikit-learn tensorflow
 
 
